@@ -13,7 +13,7 @@
 </head>
 <body>
 <form>
-    <textarea id="code_snippet" style="width: 300px; height: 150px;" placeholder="Your Code"></textarea>
+    <textarea id="code_snippet" style="width: 50%; height: 400px;" placeholder="Your Code"></textarea>
     <br>
     <input id="time_restriction" placeholder="Time Restriction" type="text"/>
     <br>

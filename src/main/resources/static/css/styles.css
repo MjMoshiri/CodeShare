@@ -1,0 +1,11 @@
+span {
+        color: lawngreen;
+}
+pre {
+    border-style: outset;
+    border-color: darkblue;
+}
+textarea {
+    border-style: dashed;
+    border-color: darkgreen;
+}
